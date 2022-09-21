@@ -5,7 +5,7 @@ body{
 }
 
 .container{
-  background: grey;
+  background: brown;
   color:white;
   max-width:800px;
   margin:0 auto;
@@ -14,5 +14,5 @@ body{
 
 
 h1{
-  color:blue;
+  color:pink;
 }
